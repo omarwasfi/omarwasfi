@@ -5,8 +5,9 @@
  - 🔭 I’m currently working primarily as Backend .net developer.
  - Also I Work as a full stake Web Developer. Configure servers(VPS) , Emails, Domains and so on..
  - 🌱 I work as a technical instructor on with IEEE. Also, I'm Learning to improve my self as instructor and make more videos on youtube.
+ - ⚡ Fun fact: Most of my bugs got fixed while Im Skating.
  - 📫 How to reach me: contact@omarwasfi.com
- - ⚡ Fun fact: Most of my bugs got fixed while Im Skateing.
+ 
 <!--
 **omarwasfi/omarwasfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
