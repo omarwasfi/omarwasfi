@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Omar wasfi from Ismailia,Egypt. I Started Coding 2014 - I Was just hopping to make the exesting games at that time better 😂..
+ I'm Omar wasfi from Ismailia,Egypt. I Started Coding 2014 - I Was just hopping to make the existing games at that time better 😂..
  The journy of leaning coding was pretty intersting for me and I loved it so much.
  
  - 🔭 I’m currently working primarily as Backend .net developer.
