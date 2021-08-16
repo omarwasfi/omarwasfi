@@ -1,10 +1,10 @@
 ### Hi there 👋
  I'm Omar wasfi from Ismailia,Egypt. I Started Coding 2014 - I Was just hopping to make the existing games at that time better 😂..
- The journy of leaning coding was pretty intersting for me and I loved it so much.
+ The journey of leaning coding was pretty intersting for me and I loved it so much.
  
  - 🔭 I’m currently working primarily as Backend .net developer.
- - Also I Work as a full stake Web Developer. Configure servers(VPS) , Emails, Domains and so on..
- - 🌱 I work as a technical instructor on with IEEE. Also, I'm Learning to improve my self as instructor and make more videos on youtube.
+ - Also I Work as a full stake Web Developer. Configure servers(VPS) , Emails, Domains and much more..
+ - 🌱 I work as a technical instructor  with IEEE. Also, I'm Learning to improve my self as an instructor and make more videos on youtube.
  - ⚡ Fun fact: Most of my bugs got fixed while Im Skating.
  - 📫 How to reach me: contact@omarwasfi.com
  
